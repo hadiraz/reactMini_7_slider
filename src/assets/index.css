@@ -1,0 +1,21 @@
+*{
+    font-family: sans-serif;
+    box-sizing: border-box;
+}
+body{
+    padding: 1rem;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #e7f3ff;
+}
+ul , li {
+    padding: 0;
+    margin: 0;
+}
+#root{
+    display: flex;
+    height: 100vh;
+    width: 100vw;
+}
